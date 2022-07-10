@@ -1,0 +1,15 @@
+.content {
+    position: relative;
+  }
+  #right-panel-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+.login
+{
+width: 20%;
+margin-top: 39.5%;
+margin-left: 35%;
+}
