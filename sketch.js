@@ -71,9 +71,9 @@ function start_evolve(){
 
 function draw() {
 
-	background(52,28,123)
+	background(0,200,0)
 	noFill()
-	frameRate(1);
+	frameRate(10);
 	stroke(0,0,255)
 	strokeWeight(3);
 	//console.log(image_array['cycling'].width,image_array['cycling'].height)
