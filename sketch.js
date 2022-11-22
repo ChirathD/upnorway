@@ -73,6 +73,7 @@ function draw() {
 
 	background(52,28,123)
 	noFill()
+	frameRate(1);
 	stroke(0,0,255)
 	strokeWeight(3);
 	//console.log(image_array['cycling'].width,image_array['cycling'].height)
