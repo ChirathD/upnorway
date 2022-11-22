@@ -71,7 +71,7 @@ function start_evolve(){
 
 function draw() {
 
-	background(0,200,0)
+	background(200)
 	noFill()
 	frameRate(10);
 	stroke(0,0,255)
